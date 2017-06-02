@@ -17,7 +17,7 @@ Film Studies’ target audience is anyone between the ages of 15 and 55 of eithe
 
 Features implemented will begin with a dynamic front page pending on the latest movies released. Incorporated alongside it would be a ratings system amongst shows included with the user’s review, movie suggestions based on previously liked and highly reviewed shows, and user pages showing their review history and comments. Users will also have access to a search bar that can browse through certain genres, tags, or simple keyword strings. Of the users there will be three groups, including basic user, verified user, and admin.
 
-# Sample Story
+# Sample Stories
 
 Alex has just finished watching the newest Avengers movie and found it distasteful when compared to previous Avenger movies. He registers onto Film Studies and reads some reviews. He finds that people unanimously agreed that the movie was bad and shares his coinciding thoughts of another users review.
 
