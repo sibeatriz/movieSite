@@ -25,3 +25,5 @@ Emily’s friend has been talking about a new television show called Game of Thr
 
 Following the recommendation of a movie-watching website, Tony finds himself watching the latest Alien movie and loving it, despite having no background knowledge of the movie’s universe. Curious as to the descriptions and quality of its predecessors, he visits Film Studies with the goal of discovering his best second step into the series through reading movie suggestions and reviews. He finds his opinions on the movie to be shared amongst many movie viewers and decides to heed their opinions and watch the most highly-reviewed movie in the series next.
 
+Georgia is an avid movie watcher. She always has thoughts and opinions that she wants to share with friends, but finds them to be disinterested. She finds the website Film Studies where she creates an account and is now able to talk to various like-minded individuals. Through the many conversations about movies and their specificities that Film Studies has given her the opportunity to have, she has grown to better understand aspects she was not well-versed in, such as plot lines and character development. 
+
